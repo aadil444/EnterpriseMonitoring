@@ -1,3 +1,17 @@
-License to be finalized.
+TZMonitor
 
-This repository contains work based on Zabbix 7.0, which is licensed under the GNU Affero General Public License v3 (AGPLv3). Any redistribution of modified Zabbix components must comply with the AGPLv3.
+Copyright (c) 2026 Tylex Technologies
+
+This repository contains:
+
+1. Original source code, documentation, branding, deployment automation,
+   and supporting tools developed by Tylex Technologies.
+
+2. Modified components derived from Zabbix 7.0 LTS.
+
+The Zabbix-derived components remain licensed under the GNU Affero General
+Public License Version 3 (AGPLv3). Redistribution and modification of those
+components must comply with the AGPLv3.
+
+The licensing terms for original TZMonitor components will be documented
+separately. This file may be updated as the project evolves.
