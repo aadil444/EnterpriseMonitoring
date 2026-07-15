@@ -1,0 +1,30 @@
+# Ansible
+*.retry
+*.retry
+*.vault
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/
+
+# Terraform (future)
+.terraform/
+
+# Local secrets
+secrets/
